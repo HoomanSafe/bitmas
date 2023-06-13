@@ -3,10 +3,10 @@ import Raptor from "../assets/raptor.png";
 
 const Hero = () => {
   return (
-    <section className="py-[50px] w-full hero">
+    <section className="py-[50px] w-full hero" id="hero">
       <div className="container grid lg:grid-cols-2 justify-between items-center gap-10">
         <article className="flex flex-col gap-6 items-start">
-          <h1 className="md:text-7xl text-5xl text-white">
+          <h1 className="md:text-7xl text-5xl text-white hero-header">
             welcome to philoso <span className="">raptor</span>
           </h1>
           <h2 className="text-3xl text-white"> an ambitious endeavor</h2>
