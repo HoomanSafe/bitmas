@@ -3,14 +3,14 @@ import Raptor from "../assets/raptor.png";
 
 const Hero = () => {
   return (
-    <section className="py-[50px] w-full">
+    <section className="py-[50px] w-full hero">
       <div className="container grid lg:grid-cols-2 justify-between items-center gap-10">
         <article className="flex flex-col gap-6 items-start">
-          <h1 className="md:text-7xl text-5xl">
+          <h1 className="md:text-7xl text-5xl text-white">
             welcome to philoso <span className="">raptor</span>
           </h1>
-          <h2 className="text-3xl"> an ambitious endeavor</h2>
-          <p className=" text-gray-400 font-primary">
+          <h2 className="text-3xl text-white"> an ambitious endeavor</h2>
+          <p className=" text-white font-primary">
             In the vast landscape of blockchain technology, Ethereum has
             established itself as a leading platform for decentralized
             applications and smart contracts.

@@ -4,8 +4,10 @@ import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Features from "./Components/Features";
 import Footer from "./Components/Footer";
+import SplitType from "split-type";
 
 const App = () => {
+
   return (
     <section className="min-h-screen w-full bg-primary text-green font-secondary">
       <Header />
