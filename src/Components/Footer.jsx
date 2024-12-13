@@ -7,10 +7,10 @@ const Footer = () => {
     <footer className="py-[50px] bg-green text-white">
       <div className="container text-center flex justify-center gap-6 items-center flex-col">
         <div className="flex items-center gap-4">
-          <a href="" className="text-4xl">
+          <a href="https://t.me/BTCChristmas" className="text-4xl">
             <BsSend />
           </a>
-          <a href="" className="text-4xl">
+          <a href="https://x.com/BTC_Christmas" className="text-4xl">
             <CgTwitter />
           </a>
           <a href="" className="text-4xl">
@@ -18,10 +18,10 @@ const Footer = () => {
           </a>
         </div>
         <a href="" className="text-4xl capitalize font-secondary">
-          $philosoraptor
+          $BITMAS
         </a>
         <p className=" text-white font-primary max-w-[700px]">
-          In the vast landscape of blockchain technology, Ethereum has
+          In the vast landscape of rewards $BTC, BinancesmartChain has
           established itself as a leading platform for decentralized
           applications and smart contracts.
         </p>
