@@ -1,6 +1,6 @@
 import React from "react";
-import logo2 from "../assets/logo2.png";
-import Logo from "../assets/raptor.png";
+import logo2 from "../assets/bitcoinchristmaslogo-removebg-preview.png";
+import Logo from "../assets/bitmasbanner.jpg";
 
 const About = () => {
   return (
@@ -13,26 +13,15 @@ const About = () => {
 
           <div className="flex mt-10 flex-col gap-5 max-w-[700px]">
             <p className=" text-white font-primary">
-              In the vast landscape of blockchain technology, Ethereum has
-              established itself as a leading platform for decentralized
-              applications and smart contracts.
+             This festive season, $BITMAS is here to spread cheer and rewards in BTC! 🎄🪙 With our limited supply of 1,000,000 tokens, renounced contract, 
+              and locked liquidity, $BITMAS ensures transparency and trust for all holders. Designed for the crypto enthusiast,
             </p>
             <p className=" text-white font-primary">
-              Philosoraptor is an ambitious endeavor that merges the realms of
-              philosophy and blockchain technology, aiming to revolutionize the
-              way we contemplate and engage with philosophical concepts. Drawing
-              inspiration from the enigmatic Philosoraptor meme, this crypto
-              project aims to provide a unique and thought-provoking experience
-              to users.
+              our tokenomics offer a 4% BTC reward on every transaction—helping you grow your Bitcoin stash while celebrating the holidays!
             </p>
             <p className=" text-white font-primary">
-              At its core, Philosoraptor leverages Ethereum's smart contract
-              functionality to create an immersive ecosystem where users can
-              explore philosophical ideas, engage in intellectual discussions,
-              and even participate in philosophical competitions. Through a
-              decentralized application (DApp) built on Ethereum, users can
-              access a range of features and services designed to enhance their
-              philosophical journey.
+             Tis the season for Bitcoin rewards! With $BITMAS, you’re not just celebrating Christmas—you’re earning BTC too! Our project is built for security, fun, and rewards, with 4% of every transaction going straight to your Bitcoin wallet. Combined with a locked LP, renounced contract, and top-tier marketing,
+              $BITMAS is the festive crypto gift you didn’t know you needed. Let’s HODL our way to the moon together! 🎄✨
             </p>
           </div>
         </article>
