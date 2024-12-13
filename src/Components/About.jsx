@@ -1,6 +1,7 @@
 import React from "react";
-import logo2 from "../assets/bitcoinchristmaslogo-removebg-preview.png";
-import Logo from "../assets/bitmasbanner.jpg";
+import logo2 from "../assets/bitmasbanner.jpg";
+import Logo from "../assets/bitcoinchristmaslogo-removebg-preview.png";
+
 
 const About = () => {
   return (
