@@ -20,7 +20,7 @@ const Header = () => {
       <div className="container flex justify-center items-center bg-transparent">
         <nav className="flex shadow bg-white px-4 border-2 border-black rounded-b-2xl border-t-0 py-3 w-full  justify-between items-center">
           <a href="" className="text-4xl capitalize font-secondary">
-            $philosoraptor
+            $BITMAS
           </a>
           <button
             onClick={Open}
@@ -71,7 +71,7 @@ const Header = () => {
             </a>
           </div>
           <a
-            href=""
+            href="https://pancakeswap.finance/?outputCurrency=0x7Ae700359030F4E72449DE0b3E6372dfF01EA512"
             className="bg-green px-9 py-4 text-white rounded-xl hidden md:block text-2xl border-4 border-black capitalize hover:bg-white hover:text-green hover:border-green font-secondary"
           >
             buy now
