@@ -18,7 +18,7 @@ const Features = () => {
         enableScrollSpy: true,
         duration: 2,
       });
-      const taxUp = new CountUp(tax.current, 6, {
+      const taxUp = new CountUp(tax.current, 7, {
         decimal: ".",
         enableScrollSpy: true,
         duration: 2,
