@@ -13,12 +13,12 @@ const Features = () => {
         enableScrollSpy: true,
         duration: 2,
       });
-      const maxUp = new CountUp(maxWallet.current, 2, {
+      const maxUp = new CountUp(maxWallet.current, 4, {
         decimal: ".",
         enableScrollSpy: true,
         duration: 2,
       });
-      const taxUp = new CountUp(tax.current, 5, {
+      const taxUp = new CountUp(tax.current, 6, {
         decimal: ".",
         enableScrollSpy: true,
         duration: 2,
@@ -55,7 +55,7 @@ const Features = () => {
           </article>
           <article className="flex flex-col justify-center items-center">
             <h2 className="text-3xl" ref={maxWallet}></h2>
-            <h4 className="text-xl">max wallet</h4>
+            <h4 className="text-xl">Rewards $BTC</h4>
           </article>
           <article className="flex flex-col justify-center items-center">
             <h2 className="text-3xl" ref={tax}></h2>
