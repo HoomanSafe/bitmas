@@ -6,9 +6,9 @@ export const texts = [
     text: "2k initial mc",
   },
   {
-    text: "0% buy tax",
+    text: "7% buy tax",
   },
   {
-    text: "0% sell tax",
+    text: "7% sell tax",
   },
 ];
